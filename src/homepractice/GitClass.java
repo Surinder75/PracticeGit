@@ -5,6 +5,11 @@ public class GitClass {
 		int numOne =10;
 		int numTwo=20;
 		getResult(numOne, numTwo);// add
+		int numThree = 20;
+		int numFour = 30;
+		getResult(numThree, numFour);
+		
+		
 		
 		
 	}
