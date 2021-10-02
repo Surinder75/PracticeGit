@@ -2,6 +2,10 @@ package homepractice;
 
 public class GitClass {
 	public static void main(String[] args) {
+		int numOne =10;
+		int numTwo=20;
+		getResult(numOne, numTwo);// add
+		
 		
 	}
 	public static void getResult(int numOne, int numTwo) {
